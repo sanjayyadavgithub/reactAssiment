@@ -1,0 +1,36 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    background-color: cyan;
+}
+
+.headerMenu {
+    margin: 15px 0;
+
+}
+.headerMenu img {
+    width : 60px;
+    height : 50px;
+    background-color:cyan;
+    margin-left: 160px;
+}
+
+.headerMenu h1 {
+    float: right;
+    margin-top: 7px;
+    padding-left:10px;
+    
+}
+
+.headerright{
+  margin-right:200px;
+  margin-top: 30px;
+  padding:10px;
+  
+}
+.headerright span{
+    display : inline-block;
+    justify-content: space-between;
+    padding : 10px;
+}

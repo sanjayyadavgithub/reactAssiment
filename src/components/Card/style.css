@@ -1,0 +1,11 @@
+.card h1{
+    text-align: left;
+    margin-left:250px;
+}
+.card div{
+    width:350px;
+    height: 350px;
+    background-color:rgb(181, 194, 181);
+    margin-left:250px;
+    
+}

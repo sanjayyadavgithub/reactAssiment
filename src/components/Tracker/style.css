@@ -1,0 +1,25 @@
+.tracker{
+    text-align: center;
+  
+}
+.tracker h4{
+  margin-left: -800px;
+  padding: 0;
+  
+}
+tracker h5{
+  margin-top:-20px;
+  margin-left: -700px;
+  font-size: 25px;
+}
+.tracker h1 {
+  text-align: left;
+  margin-left: 250px;
+  border-bottom: 1px solid black;
+}
+.track span {
+   padding:250px;
+}
+.tracker span{
+    padding:140px;
+}
